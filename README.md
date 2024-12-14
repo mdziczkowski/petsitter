@@ -1,4 +1,4 @@
-# petsitter
+# petsitter [Work In Progress]
 
 #### Dokumenty prawne / Legal documents:
 
