@@ -4,13 +4,13 @@
 
 **PL**:
 
-- [Licencja](legal/licenses/pl.md)
-- [Warunki usługi](legal/tos/pl.md)
+- [Licencja](legal/license/pl.md)
+- [Warunki usługi](legal/TOS/pl.md)
 
 **EN**:
 
-- [License](legal/licensed/en.md)
-- [Terms of Service](legal/tos/en.md)
+- [License](legal/license/en.md)
+- [Terms of Service](legal/TOS/en.md)
 
 ---
 
