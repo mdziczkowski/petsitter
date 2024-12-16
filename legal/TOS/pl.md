@@ -116,7 +116,7 @@ Użytkownicy wyrażają zgodę na przetwarzanie swoich danych osobowych w zakres
 
 ## 12. Licencja i własność intelektualna
 
-- Warunki licencjonowania dotyczące korzystania z Serwisu są określone w osobnym pliku licencyjnym, który jest dostępny w Serwisie.
+- Warunki licencjonowania dotyczące korzystania z Serwisu są określone w osobnym [pliku licencyjnym](https://github.com/mdziczkowski/petsitter/legal/license/pl.md), który jest dostępny w Serwisie.
 
 - Serwis i jego zawartość są chronione prawami autorskimi. Zabrania się kopiowania, rozpowszechniania lub modyfikowania Serwisu bez zgody właściciela.
 
